@@ -8,3 +8,5 @@ c = 1
 print(some_fnc(a, b, c))
 
 print(some_fnc(c, a, b))
+
+print("New hello")
